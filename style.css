@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    border: none;
+
+}
+
+.product-image{
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+}
+
+#product-desc {
+ height:100px;
+overflow: hidden;
+}
+
+.card{
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#price{
+    color: green;
+    font-weight: bold;
+}
+
+#button{
+    cursor:pointer;
+}
+
+#footer{
+    margin-top: 30px;
+}
+
+#search-input{
+    width: 20%;
+}
+
+#title{
+    font-weight: bold;
+    color: red;
+}
+
+#icon{
+    margin-left: 20px;
+}

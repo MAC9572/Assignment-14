@@ -1,0 +1,22 @@
+h2{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+ p{
+    text-align: center;
+    font-size: 20px;
+ }
+
+ #date{
+    margin-bottom: 30px;
+ }
+
+ #product-id{
+    color: green;
+ }
+
+ #quantity{
+    color: red;
+ }
